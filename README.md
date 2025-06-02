@@ -1,4 +1,4 @@
 
 
 
-<a href="https://george.mand.is"><img src="https://d33wubrfki0l68.cloudfront.net/abf7a83094ae7040ac0d25de2848a9bfe08328c6/1a9ce/media/mes/me-teaching.jpg" alt="Two smiley-face puppets on a breadboard" /></a>
+<a href="https://george.mand.is/hire"><img src="https://d33wubrfki0l68.cloudfront.net/abf7a83094ae7040ac0d25de2848a9bfe08328c6/1a9ce/media/mes/me-teaching.jpg" alt="Two smiley-face puppets on a breadboard" /></a>
