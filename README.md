@@ -14,11 +14,11 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
-| [eng-leader-tools](https://github.com/georgemandis/eng-leader-tools) | Bash scripts for engineering leadership metrics. DORA, PR health, review load, lottery factor, and more. Just gh + jq. |
-| [rc-partner-company-detector](https://github.com/georgemandis/rc-partner-company-detector) | Browser extension that tells you when you're browsing a Recurse Center partner company |
+| [mcp-census-data](https://github.com/georgemandis/mcp-census-data) | Proof-of-concept MCP server built around select Census Bureau APIs |
+| [whereami](https://github.com/georgemandis/whereami) | A CLI tool that leverages system-level location services to tell you exactly where you are—latitude, longitude, reverse-geocoded for systems that support it (namely macOS) |
 | [patui](https://github.com/georgemandis/patui) | The elegance of MS Paint meets the user-friendliness of Vim wrapped in the performance of JavaScript. |
 | [loupe](https://github.com/georgemandis/loupe) | Computer vision CLI — detect faces, read text, and scan barcodes using native OS APIs. Written in Zig. |
-| [copycat](https://github.com/georgemandis/copycat) | A cross-platform clipboard CLI and C ABI library written in Zig |
+| [eng-leader-tools](https://github.com/georgemandis/eng-leader-tools) | Bash scripts for engineering leadership metrics. DORA, PR health, review load, lottery factor, and more. Just gh + jq. |
 
 ---
 
