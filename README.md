@@ -5,11 +5,11 @@
 #### Latest Blog Posts
 | Title | Date |
 | --- | --- |
-| [Meet PaTUI: MS Paint for the Terminal, with Vim Controls](https://george.mand.is/2026/05/meet-patui-ms-paint-for-the-terminal-with-vim-controls/) | May 5, 2026 |
-| [Soft-launching Little Irons](https://george.mand.is/2026/04/soft-launching-little-irons/) | Apr 14, 2026 |
-| [More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/) | Sep 20, 2025 |
-| [Building a Go Link Toy with Deno](https://george.mand.is/2025/07/building-a-go-link-toy-with-deno/) | Jul 12, 2025 |
-| [OpenAI Charges by the Minute, So Make the Minutes Shorter](https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/) | Jun 23, 2025 |
+| [Meet PaTUI: MS Paint for the Terminal, with Vim Controls](https://george.mand.is/2026/05/meet-patui-ms-paint-for-the-terminal-with-vim-controls/) | May 6, 2026 |
+| [Soft-launching Little Irons](https://george.mand.is/2026/04/soft-launching-little-irons/) | Apr 15, 2026 |
+| [More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/) | Sep 21, 2025 |
+| [Building a Go Link Toy with Deno](https://george.mand.is/2025/07/building-a-go-link-toy-with-deno/) | Jul 13, 2025 |
+| [OpenAI Charges by the Minute, So Make the Minutes Shorter](https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/) | Jun 24, 2025 |
 
 #### Recent Projects
 | Repo | Description |
