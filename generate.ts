@@ -42,7 +42,6 @@ async function fetchRepos(): Promise<GitHubRepo[]> {
   const res = await fetch(GITHUB_API_URL);
   const repos: GitHubRepo[] = await res.json();
   return repos
-    .reverse()
     .filter(
       (r) =>
         !r.fork &&
