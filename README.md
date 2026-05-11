@@ -21,6 +21,9 @@
 | [loupe](https://github.com/georgemandis/loupe) | Computer vision CLI — detect faces, read text, and scan barcodes using native OS APIs. Written in Zig. |
 | [copycat](https://github.com/georgemandis/copycat) | A cross-platform clipboard CLI and C ABI library written in Zig |
 | [rc-partner-company-detector](https://github.com/georgemandis/rc-partner-company-detector) | Browser extension that tells you when you're browsing a Recurse Center partner company |
+| [color-matcher-rcade](https://github.com/georgemandis/color-matcher-rcade) | My RCade Color Matching Game |
+| [less-sh](https://github.com/georgemandis/less-sh) | Static site builder built around Pandoc, with some opinions sprinkled in for good measure. Less is more. |
+| [nyc-recycling-deserts](https://github.com/georgemandis/nyc-recycling-deserts) | Creative-coding inspired visualization of NYC recycling "deserts" |
 
 ---
 

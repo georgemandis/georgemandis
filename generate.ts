@@ -1,6 +1,6 @@
 const BLOG_FEED_URL = "https://george.mand.is/feed.json";
 const GITHUB_API_URL =
-  "https://api.github.com/users/georgemandis/repos?sort=pushed&per_page=10&type=owner";
+  "https://api.github.com/users/georgemandis/repos?sort=pushed&per_page=25&type=owner";
 
 const EXCLUDED_REPO_PATTERNS = [
   /^homebrew-/,
