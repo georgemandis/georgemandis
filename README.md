@@ -5,20 +5,22 @@
 #### Latest Blog Posts
 | Title | Date |
 | --- | --- |
-| [Meet PaTUI: MS Paint for the Terminal, with Vim Controls](https://george.mand.is/2026/05/meet-patui-ms-paint-for-the-terminal-with-vim-controls/) | May 6, 2026 |
-| [Soft-launching Little Irons](https://george.mand.is/2026/04/soft-launching-little-irons/) | Apr 15, 2026 |
-| [More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/) | Sep 21, 2025 |
-| [Building a Go Link Toy with Deno](https://george.mand.is/2025/07/building-a-go-link-toy-with-deno/) | Jul 13, 2025 |
-| [OpenAI Charges by the Minute, So Make the Minutes Shorter](https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/) | Jun 24, 2025 |
+| [Meet PaTUI: MS Paint for the Terminal, with Vim Controls](https://george.mand.is/2026/05/meet-patui-ms-paint-for-the-terminal-with-vim-controls/) | May 5, 2026 |
+| [Soft-launching Little Irons](https://george.mand.is/2026/04/soft-launching-little-irons/) | Apr 14, 2026 |
+| [More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/) | Sep 20, 2025 |
+| [Building a Go Link Toy with Deno](https://george.mand.is/2025/07/building-a-go-link-toy-with-deno/) | Jul 12, 2025 |
+| [OpenAI Charges by the Minute, So Make the Minutes Shorter](https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/) | Jun 23, 2025 |
 
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
-| [rc-partner-company-detector](https://github.com/georgemandis/rc-partner-company-detector) | Browser extension that tells you when you're browsing a Recurse Center partner company |
-| [copycat](https://github.com/georgemandis/copycat) | A cross-platform clipboard CLI and C ABI library written in Zig |
-| [loupe](https://github.com/georgemandis/loupe) | Computer vision CLI — detect faces, read text, and scan barcodes using native OS APIs. Written in Zig. |
-| [patui](https://github.com/georgemandis/patui) | The elegance of MS Paint meets the user-friendliness of Vim wrapped in the performance of JavaScript. |
+| [eng-leader-tools](https://github.com/georgemandis/eng-leader-tools) | Bash scripts for engineering leadership metrics. DORA, PR health, review load, lottery factor, and more. Just gh + jq. |
+| [mcp-census-data](https://github.com/georgemandis/mcp-census-data) | Proof-of-concept MCP server built around select Census Bureau APIs |
 | [whereami](https://github.com/georgemandis/whereami) | A CLI tool that leverages system-level location services to tell you exactly where you are—latitude, longitude, reverse-geocoded for systems that support it (namely macOS) |
+| [patui](https://github.com/georgemandis/patui) | The elegance of MS Paint meets the user-friendliness of Vim wrapped in the performance of JavaScript. |
+| [loupe](https://github.com/georgemandis/loupe) | Computer vision CLI — detect faces, read text, and scan barcodes using native OS APIs. Written in Zig. |
+| [copycat](https://github.com/georgemandis/copycat) | A cross-platform clipboard CLI and C ABI library written in Zig |
+| [rc-partner-company-detector](https://github.com/georgemandis/rc-partner-company-detector) | Browser extension that tells you when you're browsing a Recurse Center partner company |
 
 ---
 

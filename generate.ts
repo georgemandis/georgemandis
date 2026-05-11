@@ -47,7 +47,7 @@ async function fetchRepos(): Promise<GitHubRepo[]> {
         !r.fork &&
         !EXCLUDED_REPO_PATTERNS.some((pattern) => pattern.test(r.name))
     )
-    .slice(0, 5);
+    .slice(0, 10);
 }
 
 function generateReadme(posts: BlogItem[], repos: GitHubRepo[]): string {
