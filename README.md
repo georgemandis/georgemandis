@@ -14,6 +14,7 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [plausible-redirect-cloudflare-worker](https://github.com/georgemandis/plausible-redirect-cloudflare-worker) | A Cloudflare worker to redirect traffic to Plausible analytics |
 | [eng-leader-tools](https://github.com/georgemandis/eng-leader-tools) | Bash scripts for engineering leadership metrics. DORA, PR health, review load, lottery factor, and more. Just gh + jq. |
 | [mcp-census-data](https://github.com/georgemandis/mcp-census-data) | Proof-of-concept MCP server built around select Census Bureau APIs |
 | [whereami](https://github.com/georgemandis/whereami) | A CLI tool that leverages system-level location services to tell you exactly where you are—latitude, longitude, reverse-geocoded for systems that support it (namely macOS) |
@@ -23,7 +24,6 @@
 | [rc-partner-company-detector](https://github.com/georgemandis/rc-partner-company-detector) | Browser extension that tells you when you're browsing a Recurse Center partner company |
 | [color-matcher-rcade](https://github.com/georgemandis/color-matcher-rcade) | My RCade Color Matching Game |
 | [less-sh](https://github.com/georgemandis/less-sh) | Static site builder built around Pandoc, with some opinions sprinkled in for good measure. Less is more. |
-| [nyc-recycling-deserts](https://github.com/georgemandis/nyc-recycling-deserts) | Creative-coding inspired visualization of NYC recycling "deserts" |
 
 ---
 
