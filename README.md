@@ -14,6 +14,8 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [gorilla.bas](https://github.com/georgemandis/gorilla.bas) | A port of GORILLA.BAS—the classic QBasic game—adapted for the RCade |
+| [cyberleague-liars-dice](https://github.com/georgemandis/cyberleague-liars-dice) | A repo of all my bots competing in the Cyberleague "Liar's Dice" competition along with definitions  |
 | [patui](https://github.com/georgemandis/patui) | The elegance of MS Paint meets the user-friendliness of Vim wrapped in the performance of JavaScript. |
 | [cursed-captcha](https://github.com/georgemandis/cursed-captcha) |  |
 | [plausible-cf-worker](https://github.com/georgemandis/plausible-cf-worker) | A Cloudflare worker to redirect traffic to Plausible analytics |
@@ -22,8 +24,6 @@
 | [whereami](https://github.com/georgemandis/whereami) | A CLI tool that leverages system-level location services to tell you exactly where you are—latitude, longitude, reverse-geocoded for systems that support it (namely macOS) |
 | [loupe](https://github.com/georgemandis/loupe) | Computer vision CLI — detect faces, read text, and scan barcodes using native OS APIs. Written in Zig. |
 | [copycat](https://github.com/georgemandis/copycat) | A cross-platform clipboard CLI and C ABI library written in Zig |
-| [rc-partner-company-detector](https://github.com/georgemandis/rc-partner-company-detector) | Browser extension that tells you when you're browsing a Recurse Center partner company |
-| [color-matcher-rcade](https://github.com/georgemandis/color-matcher-rcade) | My RCade Color Matching Game |
 
 ---
 
