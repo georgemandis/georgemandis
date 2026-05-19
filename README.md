@@ -5,11 +5,11 @@
 #### Latest Blog Posts
 | Title | Date |
 | --- | --- |
+| [Who Reads My RSS Feed?](https://george.mand.is/2026/05/who-reads-my-rss-feed/) | May 18, 2026 |
 | [My Favorite Bugs: Invalid Surrogate Pairs](https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/) | May 14, 2026 |
 | [Migrating from Netlify to Cloudflare Pages](https://george.mand.is/2026/05/migrating-from-netlify-to-cloudflare-pages/) | May 13, 2026 |
 | [Meet PaTUI: MS Paint for the Terminal, with Vim Controls](https://george.mand.is/2026/05/meet-patui-ms-paint-for-the-terminal-with-vim-controls/) | May 6, 2026 |
 | [Soft-launching Little Irons](https://george.mand.is/2026/04/soft-launching-little-irons/) | Apr 15, 2026 |
-| [More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/) | Sep 21, 2025 |
 
 #### Recent Projects
 | Repo | Description |
