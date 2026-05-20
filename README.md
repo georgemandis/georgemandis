@@ -14,6 +14,7 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [art.sh](https://github.com/georgemandis/art.sh) | Terminal art generator inspired by 10 PRINT — fills your screen with random box-drawing characters, with configurable styles, colors, and gradients |
 | [gorilla.bas](https://github.com/georgemandis/gorilla.bas) | A port of GORILLA.BAS—the classic QBasic game—adapted for the RCade |
 | [cyberleague-liars-dice](https://github.com/georgemandis/cyberleague-liars-dice) | A repo of all my bots competing in the Cyberleague "Liar's Dice" competition along with definitions  |
 | [patui](https://github.com/georgemandis/patui) | The elegance of MS Paint meets the user-friendliness of Vim wrapped in the performance of JavaScript. |
@@ -23,7 +24,6 @@
 | [mcp-census-data](https://github.com/georgemandis/mcp-census-data) | Proof-of-concept MCP server built around select Census Bureau APIs |
 | [whereami](https://github.com/georgemandis/whereami) | A CLI tool that leverages system-level location services to tell you exactly where you are—latitude, longitude, reverse-geocoded for systems that support it (namely macOS) |
 | [loupe](https://github.com/georgemandis/loupe) | Computer vision CLI — detect faces, read text, and scan barcodes using native OS APIs. Written in Zig. |
-| [copycat](https://github.com/georgemandis/copycat) | A cross-platform clipboard CLI and C ABI library written in Zig |
 
 ---
 
