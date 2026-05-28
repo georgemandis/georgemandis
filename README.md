@@ -15,15 +15,15 @@
 | Repo | Description |
 | --- | --- |
 | [rc-ssh-museum](https://github.com/georgemandis/rc-ssh-museum) |  |
+| [mussheum](https://github.com/georgemandis/mussheum) | An open-source SSH art gallery. Host curated artwork that visitors browse in the terminal. |
+| [pizza.sh](https://github.com/georgemandis/pizza.sh) | Find pizza near you from the command line. Uses whereami + Google Places. |
+| [poltergeist](https://github.com/georgemandis/poltergeist) | Cross-platform accessibility CLI & library. Inspect UI elements, manage windows, and perform actions through native OS accessibility APIs. Built in Zig. |
 | [package-release-tracker.sh](https://github.com/georgemandis/package-release-tracker.sh) | Bash script that generates an HTML report of download statistics for your Homebrew tap and Scoop bucket projects via the GitHub API |
 | [blaggregator-rcade](https://github.com/georgemandis/blaggregator-rcade) | Read recent blog posts from the Recurse community (on the RCade) |
 | [nearme](https://github.com/georgemandis/nearme) | Search for places near you from the command line. Uses macOS MapKit — no API keys needed. |
-| [pizza.sh](https://github.com/georgemandis/pizza.sh) | Find pizza near you from the command line. Uses whereami + Google Places. |
 | [headshot-background-normalize](https://github.com/georgemandis/headshot-background-normalize) | CLI toolkit that swaps headshot backgrounds using native macOS computer vision (loupe) for person segmentation. Generates gradient, user-provided, or AI-generated backgrounds via gpt-image-1. |
-| [poltergeist](https://github.com/georgemandis/poltergeist) | Cross-platform accessibility CLI & library. Inspect UI elements, manage windows, and perform actions through native OS accessibility APIs. Built in Zig. |
 | [whereami](https://github.com/georgemandis/whereami) | A CLI tool that leverages system-level location services to tell you exactly where you are—latitude, longitude, reverse-geocoded for systems that support it (namely macOS) |
 | [copycat](https://github.com/georgemandis/copycat) | A cross-platform clipboard CLI and C ABI library written in Zig |
-| [loupe](https://github.com/georgemandis/loupe) | Computer vision CLI — detect faces, read text, and scan barcodes using native OS APIs. Written in Zig. |
 
 ---
 
