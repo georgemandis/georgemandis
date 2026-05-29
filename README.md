@@ -14,16 +14,16 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [stenographer](https://github.com/georgemandis/stenographer) | Speech-to-text CLI powered by native macOS Speech Recognition. Transcribe audio files or live mic input across 63 languages, on-device. Written in Zig. |
+| [lingua](https://github.com/georgemandis/lingua) | Natural language processing from the command line. Language detection, sentiment analysis, NER, POS tagging, entity extraction — powered by native macOS APIs, written in Zig. |
+| [tezcatl](https://github.com/georgemandis/tezcatl) | Headless web rendering CLI powered by native macOS WebKit. Render JS-heavy pages, extract DOM, evaluate JavaScript — all from the command line. Written in Zig. |
+| [cacophony](https://github.com/georgemandis/cacophony) | Sound classification CLI powered by native macOS SoundAnalysis. Classify 300+ sound types from audio files or live microphone input. Written in Zig. |
+| [nearme](https://github.com/georgemandis/nearme) | Search for places near you from the command line. Uses macOS MapKit — no API keys needed. |
 | [rc-ssh-museum](https://github.com/georgemandis/rc-ssh-museum) |  |
 | [mussheum](https://github.com/georgemandis/mussheum) | An open-source SSH art gallery. Host curated artwork that visitors browse in the terminal. |
 | [pizza.sh](https://github.com/georgemandis/pizza.sh) | Find pizza near you from the command line. Uses whereami + Google Places. |
 | [poltergeist](https://github.com/georgemandis/poltergeist) | Cross-platform accessibility CLI & library. Inspect UI elements, manage windows, and perform actions through native OS accessibility APIs. Built in Zig. |
 | [package-release-tracker.sh](https://github.com/georgemandis/package-release-tracker.sh) | Bash script that generates an HTML report of download statistics for your Homebrew tap and Scoop bucket projects via the GitHub API |
-| [blaggregator-rcade](https://github.com/georgemandis/blaggregator-rcade) | Read recent blog posts from the Recurse community (on the RCade) |
-| [nearme](https://github.com/georgemandis/nearme) | Search for places near you from the command line. Uses macOS MapKit — no API keys needed. |
-| [headshot-background-normalize](https://github.com/georgemandis/headshot-background-normalize) | CLI toolkit that swaps headshot backgrounds using native macOS computer vision (loupe) for person segmentation. Generates gradient, user-provided, or AI-generated backgrounds via gpt-image-1. |
-| [whereami](https://github.com/georgemandis/whereami) | A CLI tool that leverages system-level location services to tell you exactly where you are—latitude, longitude, reverse-geocoded for systems that support it (namely macOS) |
-| [copycat](https://github.com/georgemandis/copycat) | A cross-platform clipboard CLI and C ABI library written in Zig |
 
 ---
 
