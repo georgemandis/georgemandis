@@ -14,6 +14,8 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [fulton](https://github.com/georgemandis/fulton) | Cross-platform global keyboard shortcut daemon and C library in Zig |
+| [copycat](https://github.com/georgemandis/copycat) | A cross-platform clipboard CLI and C ABI library written in Zig |
 | [rc-ssh-museum](https://github.com/georgemandis/rc-ssh-museum) |  |
 | [mussheum](https://github.com/georgemandis/mussheum) | An open-source SSH art gallery. Host curated artwork that visitors browse in the terminal. |
 | [tezcatl](https://github.com/georgemandis/tezcatl) | curl for rendered DOMs on macOS. Headless web rendering CLI powered by native macOS WebKit. Render JS-heavy pages, extract DOM, evaluate JavaScript, all from the command line. |
@@ -22,8 +24,6 @@
 | [lingua](https://github.com/georgemandis/lingua) | Natural language processing from the command line. Language detection, sentiment analysis, NER, POS tagging, entity extraction — powered by native macOS APIs, written in Zig. |
 | [cacophony](https://github.com/georgemandis/cacophony) | Sound classification CLI powered by native macOS SoundAnalysis. Classify 300+ sound types from audio files or live microphone input. Written in Zig. |
 | [nearme](https://github.com/georgemandis/nearme) | Search for places near you from the command line. Uses macOS MapKit — no API keys needed. |
-| [pizza.sh](https://github.com/georgemandis/pizza.sh) | Find pizza near you from the command line. Uses whereami + Google Places. |
-| [poltergeist](https://github.com/georgemandis/poltergeist) | Cross-platform accessibility CLI & library. Inspect UI elements, manage windows, and perform actions through native OS accessibility APIs. Built in Zig. |
 
 ---
 
