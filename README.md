@@ -14,16 +14,16 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [stenographer](https://github.com/georgemandis/stenographer) | Speech-to-text CLI powered by native macOS Speech Recognition. Transcribe audio files or live mic input across 63 languages, on-device. |
+| [lingua](https://github.com/georgemandis/lingua) | Natural language processing from the command line. Language detection, sentiment analysis, NER, POS tagging, entity extraction — powered by native macOS APIs. |
 | [bledsport](https://github.com/georgemandis/bledsport) |  |
-| [imps](https://github.com/georgemandis/imps) | Self-contained web apps that fit in a data URI. No server, no hosting, no dependencies. |
 | [fulton](https://github.com/georgemandis/fulton) | Cross-platform global keyboard shortcut daemon and C library in Zig |
+| [tezcatl](https://github.com/georgemandis/tezcatl) | curl for rendered DOMs on macOS. Headless web rendering CLI powered by native macOS WebKit. Render JS-heavy pages, extract DOM, evaluate JavaScript, all from the command line. |
+| [cacophony](https://github.com/georgemandis/cacophony) | Sound classification CLI powered by native macOS SoundAnalysis. Classify 300+ sound types from audio files or live microphone input. Written in Zig. |
+| [imps](https://github.com/georgemandis/imps) | Self-contained web apps that fit in a data URI. No server, no hosting, no dependencies. |
 | [chaotic-playground](https://github.com/georgemandis/chaotic-playground) | Interactive chaos game visualization — explore Sierpinski triangles and fractal attractors by tweaking vertices, ratios, and randomness in real time |
 | [eng-leader-tools](https://github.com/georgemandis/eng-leader-tools) | Bash scripts for engineering leadership metrics. DORA, PR health, review load, lottery factor, and more. Just gh + jq. |
 | [rc-ssh-museum](https://github.com/georgemandis/rc-ssh-museum) |  |
-| [copycat](https://github.com/georgemandis/copycat) | A cross-platform clipboard CLI and C ABI library written in Zig |
-| [mussheum](https://github.com/georgemandis/mussheum) | An open-source SSH art gallery. Host curated artwork that visitors browse in the terminal. |
-| [tezcatl](https://github.com/georgemandis/tezcatl) | curl for rendered DOMs on macOS. Headless web rendering CLI powered by native macOS WebKit. Render JS-heavy pages, extract DOM, evaluate JavaScript, all from the command line. |
-| [stenographer](https://github.com/georgemandis/stenographer) | Speech-to-text CLI powered by native macOS Speech Recognition. Transcribe audio files or live mic input across 63 languages, on-device. |
 
 ---
 
