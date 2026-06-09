@@ -14,16 +14,16 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [stenographer](https://github.com/georgemandis/stenographer) | Speech-to-text CLI powered by native macOS Speech Recognition. Transcribe audio files or live mic input across 63 languages, on-device. |
+| [schrodinger-plugin-ocr](https://github.com/georgemandis/schrodinger-plugin-ocr) |  |
+| [schrodinger-plugin-faces](https://github.com/georgemandis/schrodinger-plugin-faces) |  |
+| [bledsport](https://github.com/georgemandis/bledsport) |  |
 | [fulton](https://github.com/georgemandis/fulton) | Cross-platform global keyboard shortcut daemon and C library in Zig |
 | [copycat](https://github.com/georgemandis/copycat) | A cross-platform clipboard CLI and C ABI library written in Zig |
-| [stenographer](https://github.com/georgemandis/stenographer) | Speech-to-text CLI powered by native macOS Speech Recognition. Transcribe audio files or live mic input across 63 languages, on-device. |
 | [lingua](https://github.com/georgemandis/lingua) | Natural language processing from the command line. Language detection, sentiment analysis, NER, POS tagging, entity extraction — powered by native macOS APIs. |
 | [tezcatl](https://github.com/georgemandis/tezcatl) | curl for rendered DOMs on macOS. Headless web rendering CLI powered by native macOS WebKit. Render JS-heavy pages, extract DOM, evaluate JavaScript, all from the command line. |
 | [cacophony](https://github.com/georgemandis/cacophony) | Sound classification CLI powered by native macOS SoundAnalysis. Classify 300+ sound types from audio files or live microphone input. Written in Zig. |
 | [poltergeist](https://github.com/georgemandis/poltergeist) | Cross-platform accessibility CLI & library. Inspect UI elements, manage windows, and perform actions through native OS accessibility APIs. Built in Zig. |
-| [nearme](https://github.com/georgemandis/nearme) | Search for places near you from the command line. Uses macOS MapKit — no API keys needed. |
-| [loupe](https://github.com/georgemandis/loupe) | Computer vision CLI — detect faces, read text, and scan barcodes using native OS APIs. Written in Zig. |
-| [whereami](https://github.com/georgemandis/whereami) | A CLI tool that leverages system-level location services to tell you exactly where you are—latitude, longitude, reverse-geocoded for systems that support it (namely macOS) |
 
 ---
 
