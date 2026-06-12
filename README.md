@@ -14,6 +14,8 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [engsight](https://github.com/georgemandis/engsight) | Personal engineering metrics, collected passively via git hooks |
+| [101-hello-worlds](https://github.com/georgemandis/101-hello-worlds) | A Rube Goldbergian exercise in exploring convoluted solutions to simple problems |
 | [eng-leader-tools](https://github.com/georgemandis/eng-leader-tools) | Bash scripts for engineering leadership metrics. DORA, PR health, review load, lottery factor, and more. Just gh + jq. |
 | [bledsport](https://github.com/georgemandis/bledsport) |  |
 | [bledsport-external](https://github.com/georgemandis/bledsport-external) | bLEDsport external web server |
@@ -22,8 +24,6 @@
 | [schrodinger-plugin-ocr](https://github.com/georgemandis/schrodinger-plugin-ocr) |  |
 | [schrodinger-plugin-faces](https://github.com/georgemandis/schrodinger-plugin-faces) |  |
 | [fulton](https://github.com/georgemandis/fulton) | Cross-platform global keyboard shortcut daemon and C library in Zig |
-| [copycat](https://github.com/georgemandis/copycat) | A cross-platform clipboard CLI and C ABI library written in Zig |
-| [lingua](https://github.com/georgemandis/lingua) | Natural language processing from the command line. Language detection, sentiment analysis, NER, POS tagging, entity extraction — powered by native macOS APIs. |
 
 ---
 
