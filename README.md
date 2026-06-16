@@ -14,6 +14,8 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [bledsport-external](https://github.com/georgemandis/bledsport-external) | bLEDsport external web server |
+| [bledsport](https://github.com/georgemandis/bledsport) |  |
 | [engsight](https://github.com/georgemandis/engsight) | Personal engineering metrics, collected passively via git hooks |
 | [whereami](https://github.com/georgemandis/whereami) | A CLI tool that leverages system-level location services to tell you exactly where you are—latitude, longitude, reverse-geocoded for systems that support it (namely macOS) |
 | [poltergeist](https://github.com/georgemandis/poltergeist) | Cross-platform accessibility CLI & library. Inspect UI elements, manage windows, and perform actions through native OS accessibility APIs. Built in Zig. |
@@ -22,8 +24,6 @@
 | [cacophony](https://github.com/georgemandis/cacophony) | Sound classification CLI powered by native macOS SoundAnalysis. Classify 300+ sound types from audio files or live microphone input. Written in Zig. |
 | [loupe](https://github.com/georgemandis/loupe) | Computer vision CLI — detect faces, read text, and scan barcodes using native OS APIs. Written in Zig. |
 | [spectacle](https://github.com/georgemandis/spectacle) | Screen and system audio capture CLI using native OS APIs. Built in Zig. |
-| [bledsport](https://github.com/georgemandis/bledsport) |  |
-| [101-hello-worlds](https://github.com/georgemandis/101-hello-worlds) | A Rube Goldbergian exercise in exploring convoluted solutions to simple problems |
 
 ---
 
