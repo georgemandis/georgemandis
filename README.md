@@ -14,16 +14,16 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [engsight](https://github.com/georgemandis/engsight) | Personal engineering metrics, collected passively via git hooks |
+| [eng-leader-tools](https://github.com/georgemandis/eng-leader-tools) | Bash scripts for engineering leadership metrics. DORA, PR health, review load, lottery factor, and more. Just gh + jq. |
 | [bledsport-external](https://github.com/georgemandis/bledsport-external) | bLEDsport external web server |
 | [bledsport](https://github.com/georgemandis/bledsport) |  |
-| [engsight](https://github.com/georgemandis/engsight) | Personal engineering metrics, collected passively via git hooks |
 | [whereami](https://github.com/georgemandis/whereami) | A CLI tool that leverages system-level location services to tell you exactly where you are—latitude, longitude, reverse-geocoded for systems that support it (namely macOS) |
 | [poltergeist](https://github.com/georgemandis/poltergeist) | Cross-platform accessibility CLI & library. Inspect UI elements, manage windows, and perform actions through native OS accessibility APIs. Built in Zig. |
 | [lingua](https://github.com/georgemandis/lingua) | Natural language processing from the command line. Language detection, sentiment analysis, NER, POS tagging, entity extraction — powered by native macOS APIs. |
 | [fulton](https://github.com/georgemandis/fulton) | Cross-platform global keyboard shortcut daemon and C library in Zig |
 | [cacophony](https://github.com/georgemandis/cacophony) | Sound classification CLI powered by native macOS SoundAnalysis. Classify 300+ sound types from audio files or live microphone input. Written in Zig. |
 | [loupe](https://github.com/georgemandis/loupe) | Computer vision CLI — detect faces, read text, and scan barcodes using native OS APIs. Written in Zig. |
-| [spectacle](https://github.com/georgemandis/spectacle) | Screen and system audio capture CLI using native OS APIs. Built in Zig. |
 
 ---
 
