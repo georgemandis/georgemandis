@@ -14,8 +14,8 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
-| [engsight](https://github.com/georgemandis/engsight) | Personal engineering metrics, collected passively via git hooks |
 | [eng-leader-tools](https://github.com/georgemandis/eng-leader-tools) | Bash scripts for engineering leadership metrics. DORA, PR health, review load, lottery factor, and more. Just gh + jq. |
+| [engsight](https://github.com/georgemandis/engsight) | Personal engineering metrics, collected passively via git hooks |
 | [bledsport-external](https://github.com/georgemandis/bledsport-external) | bLEDsport external web server |
 | [bledsport](https://github.com/georgemandis/bledsport) |  |
 | [whereami](https://github.com/georgemandis/whereami) | A CLI tool that leverages system-level location services to tell you exactly where you are—latitude, longitude, reverse-geocoded for systems that support it (namely macOS) |
