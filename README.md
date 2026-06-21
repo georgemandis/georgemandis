@@ -14,6 +14,7 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [recurse-zulip-checkin-downloader](https://github.com/georgemandis/recurse-zulip-checkin-downloader) |  |
 | [eng-leader-tools](https://github.com/georgemandis/eng-leader-tools) | Bash scripts for engineering leadership metrics. DORA, PR health, review load, lottery factor, and more. Just gh + jq. |
 | [engsight](https://github.com/georgemandis/engsight) | Personal engineering metrics, collected passively via git hooks |
 | [bledsport-external](https://github.com/georgemandis/bledsport-external) | bLEDsport external web server |
@@ -23,7 +24,6 @@
 | [lingua](https://github.com/georgemandis/lingua) | Natural language processing from the command line. Language detection, sentiment analysis, NER, POS tagging, entity extraction — powered by native macOS APIs. |
 | [fulton](https://github.com/georgemandis/fulton) | Cross-platform global keyboard shortcut daemon and C library in Zig |
 | [cacophony](https://github.com/georgemandis/cacophony) | Sound classification CLI powered by native macOS SoundAnalysis. Classify 300+ sound types from audio files or live microphone input. Written in Zig. |
-| [loupe](https://github.com/georgemandis/loupe) | Computer vision CLI — detect faces, read text, and scan barcodes using native OS APIs. Written in Zig. |
 
 ---
 
