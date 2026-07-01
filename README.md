@@ -14,16 +14,16 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [bledsport](https://github.com/georgemandis/bledsport) |  |
+| [schrodinger-plugin-faces](https://github.com/georgemandis/schrodinger-plugin-faces) |  |
+| [schrodinger-plugin-ocr](https://github.com/georgemandis/schrodinger-plugin-ocr) |  |
 | [eng-leader-tools](https://github.com/georgemandis/eng-leader-tools) | Bash scripts for engineering leadership metrics. DORA, PR health, review load, lottery factor, and more. Just gh + jq. |
 | [rc-ssh-museum](https://github.com/georgemandis/rc-ssh-museum) |  |
 | [copycat](https://github.com/georgemandis/copycat) | A cross-platform clipboard CLI and C ABI library written in Zig |
 | [bledsport-external](https://github.com/georgemandis/bledsport-external) | bLEDsport external web server |
-| [bledsport](https://github.com/georgemandis/bledsport) |  |
 | [tezcatl](https://github.com/georgemandis/tezcatl) | curl for rendered DOMs on macOS. Headless web rendering CLI powered by native macOS WebKit. Render JS-heavy pages, extract DOM, evaluate JavaScript, all from the command line. |
 | [recurse-zulip-checkin-downloader](https://github.com/georgemandis/recurse-zulip-checkin-downloader) |  |
 | [engsight](https://github.com/georgemandis/engsight) | Personal engineering metrics, collected passively via git hooks |
-| [whereami](https://github.com/georgemandis/whereami) | A CLI tool that leverages system-level location services to tell you exactly where you are—latitude, longitude, reverse-geocoded for systems that support it (namely macOS) |
-| [poltergeist](https://github.com/georgemandis/poltergeist) | Cross-platform accessibility CLI & library. Inspect UI elements, manage windows, and perform actions through native OS accessibility APIs. Built in Zig. |
 
 ---
 
