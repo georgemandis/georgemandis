@@ -14,10 +14,10 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [eng-leader-tools](https://github.com/georgemandis/eng-leader-tools) | Bash scripts for engineering leadership metrics. DORA, PR health, review load, lottery factor, and more. Just gh + jq. |
 | [bledsport](https://github.com/georgemandis/bledsport) |  |
 | [schrodinger-plugin-faces](https://github.com/georgemandis/schrodinger-plugin-faces) |  |
 | [schrodinger-plugin-ocr](https://github.com/georgemandis/schrodinger-plugin-ocr) |  |
-| [eng-leader-tools](https://github.com/georgemandis/eng-leader-tools) | Bash scripts for engineering leadership metrics. DORA, PR health, review load, lottery factor, and more. Just gh + jq. |
 | [rc-ssh-museum](https://github.com/georgemandis/rc-ssh-museum) |  |
 | [copycat](https://github.com/georgemandis/copycat) | A cross-platform clipboard CLI and C ABI library written in Zig |
 | [bledsport-external](https://github.com/georgemandis/bledsport-external) | bLEDsport external web server |
