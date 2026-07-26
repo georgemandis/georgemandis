@@ -14,6 +14,8 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [codeshape](https://github.com/georgemandis/codeshape) | Local-first code health scoring — CodeScene-style hotspot × complexity, in bash |
+| [tezcatl](https://github.com/georgemandis/tezcatl) | curl for rendered DOMs on macOS. Headless web rendering CLI powered by native macOS WebKit. Render JS-heavy pages, extract DOM, evaluate JavaScript, all from the command line. |
 | [engsight](https://github.com/georgemandis/engsight) | Personal engineering metrics, collected passively via git hooks |
 | [attractors-detractors](https://github.com/georgemandis/attractors-detractors) | Cyclic pursuit on a grid: a ring of pixels each chasing its successor and fleeing its predecessor. p5.js sketch. |
 | [bledsport](https://github.com/georgemandis/bledsport) |  |
@@ -22,8 +24,6 @@
 | [eng-leader-tools](https://github.com/georgemandis/eng-leader-tools) | Bash scripts for engineering leadership metrics. DORA, PR health, review load, lottery factor, and more. Just gh + jq. |
 | [schrodinger-plugin-faces](https://github.com/georgemandis/schrodinger-plugin-faces) |  |
 | [schrodinger-plugin-ocr](https://github.com/georgemandis/schrodinger-plugin-ocr) |  |
-| [rc-ssh-museum](https://github.com/georgemandis/rc-ssh-museum) |  |
-| [bledsport-external](https://github.com/georgemandis/bledsport-external) | bLEDsport external web server |
 
 ---
 
