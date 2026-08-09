@@ -14,6 +14,7 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [dynamic-bg-image](https://github.com/georgemandis/dynamic-bg-image) |  |
 | [lingua](https://github.com/georgemandis/lingua) | Natural language processing from the command line. Language detection, sentiment analysis, NER, POS tagging, entity extraction — powered by native macOS APIs. |
 | [codeshape](https://github.com/georgemandis/codeshape) | Local-first code health scoring — CodeScene-style hotspot × complexity, in bash |
 | [engsight](https://github.com/georgemandis/engsight) | Personal engineering metrics, collected passively via git hooks |
@@ -23,7 +24,6 @@
 | [copycat](https://github.com/georgemandis/copycat) | A cross-platform clipboard CLI and C ABI library written in Zig |
 | [eng-leader-tools](https://github.com/georgemandis/eng-leader-tools) | Bash scripts for engineering leadership metrics. DORA, PR health, review load, lottery factor, and more. Just gh + jq. |
 | [schrodinger-plugin-faces](https://github.com/georgemandis/schrodinger-plugin-faces) |  |
-| [schrodinger-plugin-ocr](https://github.com/georgemandis/schrodinger-plugin-ocr) |  |
 
 ---
 
