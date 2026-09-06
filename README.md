@@ -5,11 +5,11 @@
 #### Latest Blog Posts
 | Title | Date |
 | --- | --- |
+| [AI Enablement Theater™](https://george.mand.is/2026/09/ai-enablement-theatertm/) | Sep 3, 2026 |
 | [tezcatl: a 2MB alternative to Puppeteer for scraping on macOS](https://george.mand.is/2026/05/tezcatl-a-2mb-alternative-to-puppeteer-for-scraping-on-macos/) | May 29, 2026 |
 | [Tracking Homebrew downloads with GitHub&#39;s API](https://george.mand.is/2026/05/tracking-homebrew-downloads-with-githubs-api/) | May 26, 2026 |
 | [Who Reads My RSS Feed?](https://george.mand.is/2026/05/who-reads-my-rss-feed/) | May 18, 2026 |
 | [My Favorite Bugs: Invalid Surrogate Pairs](https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/) | May 14, 2026 |
-| [Migrating from Netlify to Cloudflare Pages](https://george.mand.is/2026/05/migrating-from-netlify-to-cloudflare-pages/) | May 13, 2026 |
 
 #### Recent Projects
 | Repo | Description |
