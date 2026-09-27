@@ -14,6 +14,7 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [remote-working-list](https://github.com/georgemandis/remote-working-list) | A list of job boards and websites for nomadic workers seeking freelance work |
 | [w0rd13](https://github.com/georgemandis/w0rd13) | A fun little daily game for me + my friends |
 | [dynamic-bg-image](https://github.com/georgemandis/dynamic-bg-image) |  |
 | [lingua](https://github.com/georgemandis/lingua) | Natural language processing from the command line. Language detection, sentiment analysis, NER, POS tagging, entity extraction — powered by native macOS APIs. |
@@ -23,7 +24,6 @@
 | [attractors-detractors](https://github.com/georgemandis/attractors-detractors) | Cyclic pursuit on a grid: a ring of pixels each chasing its successor and fleeing its predecessor. p5.js sketch. |
 | [bledsport](https://github.com/georgemandis/bledsport) |  |
 | [copycat](https://github.com/georgemandis/copycat) | A cross-platform clipboard CLI and C ABI library written in Zig |
-| [eng-leader-tools](https://github.com/georgemandis/eng-leader-tools) | Bash scripts for engineering leadership metrics. DORA, PR health, review load, lottery factor, and more. Just gh + jq. |
 
 ---
 
