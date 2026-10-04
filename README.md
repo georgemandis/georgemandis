@@ -14,6 +14,7 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [processing-community-day-2026-nyc-midi-workshop](https://github.com/georgemandis/processing-community-day-2026-nyc-midi-workshop) | Processing Community Day NYC 2026: the MIDI workshop. Processing, Python Mode and p5.js sketches for PipSqueak, Circuit Playground, Midi Fighter, Launchpad and Trinkeys, plus the MIDI Explorer. |
 | [remote-working-list](https://github.com/georgemandis/remote-working-list) | A list of job boards and websites for nomadic workers seeking freelance work |
 | [w0rd13](https://github.com/georgemandis/w0rd13) | A fun little daily game for me + my friends |
 | [dynamic-bg-image](https://github.com/georgemandis/dynamic-bg-image) |  |
@@ -23,7 +24,6 @@
 | [tezcatl](https://github.com/georgemandis/tezcatl) | curl for rendered DOMs on macOS. Headless web rendering CLI powered by native macOS WebKit. Render JS-heavy pages, extract DOM, evaluate JavaScript, all from the command line. |
 | [attractors-detractors](https://github.com/georgemandis/attractors-detractors) | Cyclic pursuit on a grid: a ring of pixels each chasing its successor and fleeing its predecessor. p5.js sketch. |
 | [bledsport](https://github.com/georgemandis/bledsport) |  |
-| [copycat](https://github.com/georgemandis/copycat) | A cross-platform clipboard CLI and C ABI library written in Zig |
 
 ---
 
