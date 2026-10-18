@@ -14,16 +14,16 @@
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
-| [processing-community-day-2026-nyc-midi-workshop](https://github.com/georgemandis/processing-community-day-2026-nyc-midi-workshop) | Processing Community Day NYC 2026: the MIDI workshop. Processing, Python Mode and p5.js sketches for PipSqueak, Circuit Playground, Midi Fighter, Launchpad and Trinkeys, plus the MIDI Explorer. |
+| [morethanmusic.dev](https://github.com/georgemandis/morethanmusic.dev) | More than Music with MIDI: make a MIDI device do something in p5.js, Processing or Python Mode. Explorer, device catalog, helpers, firmware, talks since 2017. |
+| [circuit-playground-midi-multi-tool](https://github.com/georgemandis/circuit-playground-midi-multi-tool) | Turn your Adafruit Circuit Playground into a multi-faceted MIDI controller. Designed for my workshops experimenting with the WebMIDI API |
+| [espruino-zoom-muter](https://github.com/georgemandis/espruino-zoom-muter) | A DIY Zoom "mute" button for your Puck.js BLE beacon (Espruino) |
+| [puck-js-midi-clicker](https://github.com/georgemandis/puck-js-midi-clicker) | Use Puck.js as a BLE MIDI controller. Reacts to single, double and triple-clicks. |
+| [arduino-midiusb-starter](https://github.com/georgemandis/arduino-midiusb-starter) | One button, one knob, one LED. The smallest USB MIDI device worth plugging in, for any Arduino-style |
+| [trinkey-midi](https://github.com/georgemandis/trinkey-midi) | CircuitPython firmware that turns Adafruit's Slide Trinkey M0 and Rotary Trinkey M0 into USB MIDI |
+| [pbcopy-pbpaste-remote](https://github.com/georgemandis/pbcopy-pbpaste-remote) | pbcopy and pbpaste for the machines you SSH into, via OSC 52 |
 | [remote-working-list](https://github.com/georgemandis/remote-working-list) | A list of job boards and websites for nomadic workers seeking freelance work |
 | [w0rd13](https://github.com/georgemandis/w0rd13) | A fun little daily game for me + my friends |
 | [dynamic-bg-image](https://github.com/georgemandis/dynamic-bg-image) |  |
-| [lingua](https://github.com/georgemandis/lingua) | Natural language processing from the command line. Language detection, sentiment analysis, NER, POS tagging, entity extraction — powered by native macOS APIs. |
-| [codeshape](https://github.com/georgemandis/codeshape) | Local-first code health scoring — CodeScene-style hotspot × complexity, in bash |
-| [engsight](https://github.com/georgemandis/engsight) | Personal engineering metrics, collected passively via git hooks |
-| [tezcatl](https://github.com/georgemandis/tezcatl) | curl for rendered DOMs on macOS. Headless web rendering CLI powered by native macOS WebKit. Render JS-heavy pages, extract DOM, evaluate JavaScript, all from the command line. |
-| [attractors-detractors](https://github.com/georgemandis/attractors-detractors) | Cyclic pursuit on a grid: a ring of pixels each chasing its successor and fleeing its predecessor. p5.js sketch. |
-| [bledsport](https://github.com/georgemandis/bledsport) |  |
 
 ---
 
